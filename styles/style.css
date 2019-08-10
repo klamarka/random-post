@@ -1,0 +1,12 @@
+.box__title {
+  height: 150px;
+}
+
+.box__post {
+  height: 150px;
+}
+
+.box__button {
+  display: flex;
+  justify-content: center;
+}
